@@ -1,0 +1,21 @@
+# Defense-in-depth deny prefixes for the final PUBLIC snapshot.
+# Matching is path-segment prefix based and case-insensitive.
+# share-tools/ itself is deliberately exempt because this package is public.
+
+sources
+library
+records
+evidence
+decisions
+registry
+catalog
+packs
+deployment
+quarantine
+archive
+exports
+tools
+tests
+.git
+.env
+.skilltemp-state

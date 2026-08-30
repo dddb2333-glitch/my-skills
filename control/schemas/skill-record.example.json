@@ -1,0 +1,20 @@
+﻿{
+  "schema_version": 2,
+  "identity": {
+    "namespace": "dddb2333-glitch",
+    "skill_id": "example-skill",
+    "uid": "dddb2333-glitch/example-skill"
+  },
+  "origin": {
+    "type": "local"
+  },
+  "classification": {
+    "domains": [],
+    "roles": [],
+    "modalities": [],
+    "traits": []
+  },
+  "routing": {
+    "authoring_source": "skill-md-description"
+  }
+}

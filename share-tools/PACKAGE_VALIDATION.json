@@ -1,0 +1,25 @@
+{
+  "package": "share-tools_v0.2.1_FrameworkAware_v2.3_WinPSFix",
+  "toolset_version": "2.3.1-workspace-layout",
+  "audit_scope": "all package tools, launchers, policy files, docs, installer and self-test",
+  "static_validation": "PASS",
+  "powershell_lexical_delimiter_check": "PASS",
+  "reference_v0.2.1_lite_profile_check": "PASS",
+  "git_force_with_lease_race_semantics": "PASS",
+  "package_sha256_manifest": "PASS",
+  "zip_crc": "PASS_BUILD_GATE",
+  "windows_powershell_live_test": "PASS_ON_TARGET_WORKSPACE",
+  "runtime_self_test_groups": 14,
+  "network_used_by_self_test": false,
+  "known_static_errors": 0,
+  "package_file_count": 27,
+  "workspace_default_install_target": "F:\\SkillTemp\\tools\\share-tools",
+  "workspace_root_discovery": "PASS_STATIC",
+  "v2_3_regressions_fixed": [
+    "Windows PowerShell 5.1 NativeCommandError on expected non-repository git probes",
+    "local canonical structural check incorrectly required a Git working tree",
+    "local preview incorrectly required Git provenance",
+    "probe-style git/gh calls could terminate before exit-code handling under ErrorActionPreference=Stop",
+    "mandatory nullable string provenance rejected PowerShell 5.1 null-to-empty binding"
+  ]
+}

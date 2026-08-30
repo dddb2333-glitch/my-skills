@@ -1,0 +1,13 @@
+﻿{
+  "schema_version": 2,
+  "record_id": "EVD-...",
+  "subject": {
+    "uid": "dddb2333-glitch/example-skill",
+    "revision_id": "r-0001",
+    "content_digest": "sha256:..."
+  },
+  "type": "eval",
+  "created_at": "...",
+  "environment": {},
+  "result": {}
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "receipt_id": "DEP-...",
+  "environment": "dsh-safe",
+  "purpose": "evaluation",
+  "lock_id": "LOCK-...",
+  "lock_path": "packs/locks/example.lock.json",
+  "pack_lock_digest": "sha256:...",
+  "exact_reconciliation": true,
+  "installed": []
+}

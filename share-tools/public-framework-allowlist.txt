@@ -1,0 +1,8 @@
+# v0.2.1 Lite public Framework export rules.
+# Syntax: required:<relative-path> or optional:<relative-path>
+# Required missing => BLOCK. Optional missing => warning.
+# Actual Skill payloads/evidence/decisions/registry/packs/deployment are not exported here.
+
+required:Skill_Supply_Chain_v0.2.md
+required:control/policies
+required:control/schemas

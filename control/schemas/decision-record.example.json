@@ -1,0 +1,16 @@
+{
+  "schema_version": 2,
+  "decision_id": "ADM-...",
+  "subject": {
+    "uid": "dddb2333-glitch/example-skill",
+    "revision_id": "r-0001",
+    "content_digest": "sha256:..."
+  },
+  "decision_type": "admission",
+  "action": {
+    "effective_maturity": "validated"
+  },
+  "basis_record_ids": [],
+  "created_at": "2026-08-27T00:00:00Z",
+  "supersedes": []
+}

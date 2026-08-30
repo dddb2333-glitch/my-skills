@@ -1,0 +1,25 @@
+{
+  "schema_version": 2,
+  "exporter": "share-tools-v0.2.1-framework-aware-v2.3",
+  "toolset_version": "2.3.1-workspace-layout",
+  "generated_utc": "2026-08-30T06:16:32.5793762Z",
+  "private_source": "https://github.com/dddb2333-glitch/myskills_private.git",
+  "private_branch": "main",
+  "source_mode": "private-remote-commit",
+  "source_commit": "b47d9b8a69be3aa3607785da95d0ab15970f1c61",
+  "source_worktree_dirty": false,
+  "canonical_layout": "0.2.1-lite",
+  "canonical_schema_version": 2,
+  "canonical_role": "private-skill-library",
+  "identity_source": "metadata-file",
+  "identity_confidence": "declared-and-validated",
+  "allowlist_sha256": "b71642918972bb1696864f604b257643346947f3d8f38c9e8504e9b3a4d79baa",
+  "denylist_sha256": "7b8f2c12f9e00f9065ef7e461984df3329702a2d55c36630055a021d6631ba1b",
+  "exported_framework_paths": [
+    "Skill_Supply_Chain_v0.2.md",
+    "control\\policies",
+    "control\\schemas"
+  ],
+  "public_repository": "https://github.com/dddb2333-glitch/my-skills.git",
+  "public_branch": "main"
+}
